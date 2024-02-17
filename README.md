@@ -63,7 +63,7 @@ This project implements an audio relay system using Python, sockets, and the PyA
 
 
 ### Client (Mobile App) Indications:
- : 
+
 1. Server Not Running :  The ngrok server is not running,
 
 2. Channel Busy : Someone is alrealdy using the channel.
