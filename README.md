@@ -15,8 +15,8 @@ This project implements an audio relay system using Python, sockets, and the PyA
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/japjeet01/motorola_project
-    cd motorola_project
+    git clone https://github.com/japjeet01/Motorola_Project
+    cd Motorola_Project
     ```
 
 2. Install required Python packages:
@@ -30,7 +30,7 @@ This project implements an audio relay system using Python, sockets, and the PyA
 
 ### Server
 
-1. Open a terminal and navigate to the project directory (Motorola_internet_project).
+1. Open a terminal and navigate to the project directory (Motorola_Project).
 
 2. Run the server:
 
@@ -57,7 +57,21 @@ This project implements an audio relay system using Python, sockets, and the PyA
 
 3. Transmit your voice using push to talk button
 
-4. 
+4. You can start and stop recording from the recording button  and recording will be saved in Downloads directory.
+
+5. You can access the call logs in call logs menu.
+
+
+### Client (Mobile App) Indications:
+ : 
+1. Server Not Running :  The ngrok server is not running,
+
+2. Channel Busy : Someone is alrealdy using the channel.
+
+3. Receiving : you are receiving audio which is being transmitted from another motorola.
+
+4. Transmitting : You are Transmitting the audio from mobile app to other motorola.
+
 
 
 ## Configuration
