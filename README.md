@@ -15,8 +15,8 @@ This project implements an audio relay system using Python, sockets, and the PyA
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/japjeet01/Motorola_internet_project
-    cd Motorola_internet_project
+    git clone https://github.com/japjeet01/motorola_project
+    cd motorola_project
     ```
 
 2. Install required Python packages:
@@ -54,6 +54,10 @@ This project implements an audio relay system using Python, sockets, and the PyA
 1. Install the  app on your mobile device.
 
 2. Open the app and click on connect to server
+
+3. Transmit your voice using push to talk button
+
+4. 
 
 
 ## Configuration
